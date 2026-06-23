@@ -2,7 +2,11 @@
 <h3 align="center">💻 Computer Engineering Student</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rojan-hamdy&color=ff69b4&style=flat-square&label=PROFILE+VIEWS" alt="Profile views" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZleHpwdmN0YWt6YXNod2ZidWh0eGx5b3BtYm9pY3BqdXN6cm1uNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1R1tvI9svkIWwpVYr/giphy.gif" width="350px" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20my%20Space&fontSize=40&fontColor=B5C7EB&animation=twinkling" width="70%" />
 </p>
 
 <br/>
