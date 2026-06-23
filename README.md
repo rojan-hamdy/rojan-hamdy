@@ -22,8 +22,6 @@
 ## 👾 Contribution Graph — Pac-Man Edition
 
 <p align="center">
-  <!-- Light Mode Graph -->
-  <img src="https://raw.githubusercontent.com/rojan-hamdy/rojan-hamdy/output/pacman-contribution-graph.svg#gh-light-mode-only" alt="Pac-Man contribution graph" width="100%">
-  <!-- Dark Mode Graph -->
-  <img src="https://raw.githubusercontent.com/rojan-hamdy/rojan-hamdy/output/pacman-contribution-graph-dark.svg#gh-dark-mode-only" alt="Pac-Man contribution graph" width="100%">
+  <img src="https://github.com/rojan-hamdy/rojan-hamdy/blob/output/pacman-contribution-graph.svg?raw=true&v=1#gh-light-mode-only" alt="Pac-Man contribution graph" width="100%">
+  <img src="https://github.com/rojan-hamdy/rojan-hamdy/blob/output/pacman-contribution-graph-dark.svg?raw=true&v=1#gh-dark-mode-only" alt="Pac-Man contribution graph" width="100%">
 </p>
