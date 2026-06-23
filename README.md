@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rojan Hamdy</h1>
-<h3 align="center">🚀 Computer Engineer</h3>
+<h3 align="center">💻 Computer Engineering Student</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rojan-hamdy&color=ff69b4&style=flat-square&label=PROFILE+VIEWS" alt="Profile views" />
@@ -22,9 +22,8 @@
 ## 👾 Contribution Graph — Pac-Man Edition
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rojan-hamdy/rojan-hamdy/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rojan-hamdy/rojan-hamdy/output/pacman-contribution-graph.svg">
-    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/rojan-hamdy/rojan-hamdy/output/pacman-contribution-graph.svg" width="100%">
-  </picture>
+  <!-- Light Mode Graph -->
+  <img src="https://raw.githubusercontent.com/rojan-hamdy/rojan-hamdy/output/pacman-contribution-graph.svg#gh-light-mode-only" alt="Pac-Man contribution graph" width="100%">
+  <!-- Dark Mode Graph -->
+  <img src="https://raw.githubusercontent.com/rojan-hamdy/rojan-hamdy/output/pacman-contribution-graph-dark.svg#gh-dark-mode-only" alt="Pac-Man contribution graph" width="100%">
 </p>
