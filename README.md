@@ -1,12 +1,20 @@
 <h1 align="center">Hi 👋, I'm Rojan Hamdy</h1>
 <h3 align="center">🚀 Computer Engineer</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rojan-hamdy&color=ff69b4&style=flat-square&label=PROFILE+VIEWS" alt="Profile views" />
+</p>
+
 <br/>
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
+  <!-- Main GitHub Stats Card -->
   <img src="https://github-readme-stats.vercel.app/api?username=rojan-hamdy&show_icons=true&theme=radical&hide_border=true" alt="Rojan Hamdy's GitHub Stats" />
+  <br/><br/>
+  <!-- Most Used Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rojan-hamdy&theme=radical&hide_border=true&layout=compact" alt="Rojan Hamdy's Most Used Languages" />
 </p>
 
 <br/>
@@ -17,14 +25,6 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rojan-hamdy/rojan-hamdy/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rojan-hamdy/rojan-hamdy/output/pacman-contribution-graph.svg">
-    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/rojan-hamdy/rojan-hamdy/output/pacman-contribution-graph.svg">
+    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/rojan-hamdy/rojan-hamdy/output/pacman-contribution-graph.svg" width="100%">
   </picture>
-</p>
-
-<br/>
-
-## 👀 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rojan-hamdy&color=ff69b4&style=flat" alt="Profile views" />
 </p>
