@@ -11,11 +11,9 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <!-- Main GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=rojan-hamdy&show_icons=true&theme=radical&hide_border=true" alt="Rojan Hamdy's GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=rojan-hamdy&show_icons=true&theme=radical&hide_border=true" alt="Rojan Hamdy's GitHub Stats" />
   <br/><br/>
-  <!-- Most Used Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rojan-hamdy&theme=radical&hide_border=true&layout=compact" alt="Rojan Hamdy's Most Used Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rojan-hamdy&theme=radical&hide_border=true&layout=compact" alt="Rojan Hamdy's Most Used Languages" />
 </p>
 
 <br/>
