@@ -2,7 +2,7 @@
 <h3 align="center">💻 Computer Engineering Student</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZleHpwdmN0YWt6YXNod2ZidWh0eGx5b3BtYm9pY3BqdXN6cm1uNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1R1tvI9svkIWwpVYr/giphy.gif" width="350px" />
+  <img src="scaler-create-impact.gif" width="350px" />
 </p>
 
 <br/>
@@ -13,12 +13,43 @@
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=rojan-hamdy&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="Rojan Hamdy's GitHub Stats" />
 </p>
 
-<br/>
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rojan-hamdy&theme=radical&hide_border=true" alt="Rojan Hamdy's Activity Graph" width="100%" />
+</p>
+
 
 ## 🧠 Most Used Languages
 
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rojan-hamdy&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Rojan Hamdy's Most Used Languages" />
+</p>
+
+<br/>
+
+## 🛠️ Skills / Tech Stack
+
+**Languages**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/T--SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="T-SQL" />
+</p>
+
+**Databases**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/SQL%20Server-A91D22?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+</p>
+
+**Tools**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SSMS-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server Management Studio" />
 </p>
 
 <br/>
