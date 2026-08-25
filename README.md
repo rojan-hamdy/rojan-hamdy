@@ -14,13 +14,6 @@
 </p>
 
 
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rojan-hamdy&theme=radical&hide_border=true" alt="Rojan Hamdy's Activity Graph" width="100%" />
-</p>
-
-
 ## 🧠 Most Used Languages
 
 <p align="center">
