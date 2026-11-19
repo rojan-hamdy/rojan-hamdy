@@ -20,7 +20,6 @@
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=rojan-hamdy&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Rojan Hamdy's Most Used Languages" />
 </p>
 
-<br/>
 ## 📈 Commit Candlestick Chart
 
 <p align="center">
