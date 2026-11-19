@@ -10,17 +10,22 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=rojan-hamdy&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="Rojan Hamdy's GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=rojan-hamdy&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="Rojan Hamdy's GitHub Stats" />
 </p>
 
 
 ## 🧠 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rojan-hamdy&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Rojan Hamdy's Most Used Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=rojan-hamdy&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Rojan Hamdy's Most Used Languages" />
 </p>
 
 <br/>
+## 📈 Commit Candlestick Chart
+
+<p align="center">
+  <img src="./github-candles.svg" alt="Rojan Hamdy's Commit Candles" />
+</p>
 
 ## 🛠️ Skills / Tech Stack
 
